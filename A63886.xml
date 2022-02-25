@@ -1,0 +1,272 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the King on the 30th of January, 1684/5 being the fast for the martyrdom of King Charles the first of blessed memory / by Francis Lord Bishop of Ely, and Almoner to His Majesty.</title>
+            <author>Turner, Francis, 1638?-1700.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63886</idno>
+            <idno type="STC">Wing T3287</idno>
+            <idno type="STC">ESTC R3928</idno>
+            <idno type="EEBO-CITATION">12186884</idno>
+            <idno type="OCLC">ocm 12186884</idno>
+            <idno type="VID">55805</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63886)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55805)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 880:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the King on the 30th of January, 1684/5 being the fast for the martyrdom of King Charles the first of blessed memory / by Francis Lord Bishop of Ely, and Almoner to His Majesty.</title>
+                  <author>Turner, Francis, 1638?-1700.</author>
+               </titleStmt>
+               <extent>[2], 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Clavell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Acts V, 28 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:55805:1"/>
+            <pb facs="tcp:55805:1" rendition="simple:additions"/>
+            <p> A SERMON Preached before the KING ON The 30<hi rend="sup">th</hi> of January, 1684/5.</p>
+            <p>Being the FAST for the Martyrdom of King <hi>CHARLES</hi> the Firſt of Bleſſed Memory.</p>
+            <p>By <hi>FRANCIS</hi> Lord Biſhop of <hi>Ely,</hi> and Almoner to His MAJESTY.</p>
+            <p>
+               <hi>Publiſhed by His Majeſties ſpecial Command.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert Clavell</hi> at the <hi>Peacock</hi> at the Weſt-end of St. <hi>Pauls Church-yard.</hi> 1685.</p>
+            <pb facs="tcp:55805:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:55805:2"/>
+            <epigraph>
+               <q>
+                  <bibl>ACTS V. 28. later part.</bibl>
+                  <p>
+                     <hi>—And intend to bring this Man's Blood upon us.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>TO direct and determine our Choice what parts of the <hi>Ho<g ref="char:EOLhyphen"/>ly Writ</hi> are fitteſt to be dwelt upon by <hi>us</hi> in our <hi>Pulpits,</hi> by <hi>you</hi> in your <hi>Cloſets</hi> on this Day (the <hi>Anni<g ref="char:EOLhyphen"/>verſary</hi> Memorial of a <hi>moſt horrid Murder,</hi> but alſo of a <hi>moſt glorious Martyrdom)</hi> Whoſe Judgment is ſo fit to be followed, as His, whom we do now Commemorate, the Bleſſed and <hi>Royal Martyr,</hi> eſcap't from his <hi>Murderers,</hi> and out of the reach of thoſe hands that were deeply dy'd in his <hi>Blood?</hi> When his Soul was almoſt upon the Wing, ready to take it's flight, and the Angels ſtood waiting to conduct it
+<pb n="2" facs="tcp:55805:3"/> to the Place of Blifs, whither Chriſt was gone before; Then He did with ſtrong Conſolation reflect, and with intenſe De<g ref="char:EOLhyphen"/>votion did He meditate on the Story of the <hi>Paſſion,</hi> as the <hi>Leſſon</hi> appointed of old by the Church for this day of the Month, but then the moſt Seaſonable, and now the moſt <hi>proper Leſſon</hi> for this <hi>His Day.</hi>
+            </p>
+            <p>The Words I have choſen are in the Continuation of that Story, relating the Conſequences of the <hi>Paſſion,</hi> the hea<g ref="char:EOLhyphen"/>vy Conſequences that were like to fall up<g ref="char:EOLhyphen"/>on <hi>the Betrayers and Murderers of that Juſt One,</hi> Titles which St. <hi>Stephen,</hi> the next Martyr after Him, gave Them and Him. Yet I do not intend to draw any ſtudi<g ref="char:EOLhyphen"/>ed Parallels between the <hi>Paſſion</hi> of our Lord, <hi>the Lord from Heaven,</hi> and the Suf<g ref="char:EOLhyphen"/>ferings of an <hi>Earthly Prince,</hi> though as So<g ref="char:EOLhyphen"/>veraign a Prince, and as Sacred as any of thoſe whom the Holy Ghoſt has call'd the <hi>Chriſt's,</hi> or <hi>Anointed of God:</hi> For, although the Royal Prophet has ſaid to all other Kings, <hi>Ye are Gods,</hi> yet our Solemn Mourning at <hi>this time</hi> is enough to put us in mind of what he ſubjoyns immediate<g ref="char:EOLhyphen"/>ly, <hi>but ye ſhall dye like men;</hi> of which
+<pb n="3" facs="tcp:55805:3"/> 
+               <hi>this bloody Day</hi> gave the moſt fatal Inſtance, and the moſt amazing one that was ever given. But infinitely more aſtoniſhing was the fall of him whom the Prophet <hi>Daniel</hi> ſtyles <hi>Meſſiah the Prince,</hi> though he lov'd to ſtyle himſelf <hi>the Son of Man;</hi> yet in all his Life and Death there was ſo much of a <hi>God,</hi> that we may ask concerning that <hi>King of Kings,</hi> ſuch a Queſtion as himſelf asks concerning the <hi>Kingdom of God,</hi> by <hi>what Compariſon ſhall we compare</hi> him? Moſt Parallels are hard and ſtiff, and come up lamely, but in this caſe they would look too bold and ſwelling: They would offend the tender Piety of that moſt Chriſtian King, if he in Heaven could hear them: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as St. <hi>Gre<g ref="char:EOLhyphen"/>gory Nazianzen</hi> ſpeaks, where he ſpeaks in his Rhetorical way, to the Soul of the dead Emperor, <hi>If in thoſe Regions of Bliſs be knew what was doing here below.</hi> There<g ref="char:EOLhyphen"/>fore I ſhall not ſtrain the Circumſtances of one Tragic ſtory to make it reſemble the other; yet ſafely I may ſay in Gene<g ref="char:EOLhyphen"/>ral, our <hi>moſt devout Prince</hi> made it his Prayer, made it the Labor of his Life, as the Apoſtle had done, <hi>That he might</hi>
+               <pb n="4" facs="tcp:55805:4"/> 
+               <hi>know Chriſt, and the Fellowſhip of his Suf<g ref="char:EOLhyphen"/>ferings, being made conformable to his Death:</hi> And this Prayer of his was ſo favourably heard, that he might have ſaid with an humble Confidence after that ſame bleſſed Apoſtle St. <hi>Paul</hi> (who alſo was beheaded <hi>for the Teſtimony of Jeſus) I fill up that which is behind of the Afflictions of Chriſt in my Fleſh:</hi> And again, <hi>The Sufferings of Chriſt abound in me.</hi>
+            </p>
+            <p>To let my ſelf into my own moſt pro<g ref="char:EOLhyphen"/>per Buſineſs and Task at <hi>this time,</hi> I muſt open the matter of Fact, as it ſtood in that Conjuncture when theſe words of my Text were ſpoken, by ſome of the Chief Leaders among the Jews. They had <hi>ſhed</hi> the <hi>blood</hi> of their <hi>God,</hi> their <hi>King,</hi> their <hi>Meſſias;</hi> yet they would fain have ſhifted off the <hi>Guilt</hi> from themſelves; but ſtill the Apoſtles thought it their part to put it extremely home upon them. A curſ<g ref="char:EOLhyphen"/>ed prevailing Party among the Jews, the <hi>Phariſees</hi> and <hi>Sadducees,</hi> had Conſpired, or in plain terms, a Race of abominable <hi>Hypo<g ref="char:EOLhyphen"/>crites,</hi> had combin'd with a Crew of de<g ref="char:EOLhyphen"/>teſtable and damnable <hi>Atheiſts</hi> (ſuch a Jun<g ref="char:EOLhyphen"/>to, as the like never was before, nor ever
+<pb n="5" facs="tcp:55805:4"/> ſince has been, except our late <hi>Regicides)</hi> Theſe men had at length gain'd the Peo<g ref="char:EOLhyphen"/>ple from Chriſt, and gotten them, or enow of them on their ſide, to be <hi>in<g ref="char:EOLhyphen"/>ſtant with loud Clamors, Crucifie him, Crucifie him.</hi> When they had done the Deed, then they would have ſilenc'd the <hi>Cry</hi> of his Blood againſt them. They <hi>Menac'd, Impriſon'd,</hi> and <hi>Haras'd</hi> all thoſe who had the Courage to charge them with the <hi>Guilt,</hi> though at the ſame time theſe Preachers of the Goſpel had the Charity to ſhew them how they might ſue out their Pardon. But how ungrateful and unwelcome a thing is <hi>Truth</hi> where it ſhews ill men to themſelves! Though <hi>Pilate</hi> had the hardineſs to ask our Lord Chriſt, <hi>What is Truth?</hi> yet he durſt not ſtay for his Anſwer.</p>
+            <p>And now what would not theſe Miſ<g ref="char:EOLhyphen"/>creants give for an <hi>Act of Oblivion;</hi> that they might forget the thing they had done, and the very <hi>Name</hi> of the Perſon might be forgotten! <hi>Ye intend,</hi> ſay they, <hi>to bring this Man's blood upon us,</hi> but it was grievous to them to ſay the <hi>Blood of Jeſus.</hi> That there was ſuch a Man put to
+<pb n="6" facs="tcp:55805:5"/> 
+               <hi>Death,</hi> they muſt needs acknowledge, that <hi>They</hi> had been the <hi>Accuſers, They</hi> the <hi>Solici<g ref="char:EOLhyphen"/>tors, They</hi> the <hi>Petitioners</hi> for <hi>Juſtice</hi> and <hi>Ex<g ref="char:EOLhyphen"/>ecution</hi> upon him, they could not deny. <hi>Pilate</hi> indeed would gladly have been but <hi>Paſſive:</hi> But for Them, ſo <hi>Active</hi> were <hi>They,</hi> that no body needed <hi>to bring this Man's Blood upon</hi> them: For, to eaſe that tame Wretch, the Governor, who ought to have drawn his Sword inſtead of <hi>waſhing his Hands,</hi> they had call'd <hi>this Blood</hi> upon themſelves, and upon all their Poſterity, <hi>His Blood be upon us, and upon our Children.</hi>
+            </p>
+            <p>Their meaning then in my Text was this; <hi>You intend to bring this Man's Blood upon us,</hi> as if it were <hi>Innocent Blood,</hi> nay, as if it were the <hi>Blood</hi> of our <hi>Meſſias;</hi> you would make us Guilty, not only of <hi>Homi<g ref="char:EOLhyphen"/>cide,</hi> but of <hi>Regicide,</hi> nay even of <hi>Dei<g ref="char:EOLhyphen"/>cide,</hi> as if we had ſhed the <hi>Blood of God,</hi> whereas He whom ye ſtyle your <hi>King</hi> was <hi>delivered up as a Malefactor,</hi> was <hi>Try'd as a Subject,</hi> and <hi>Condemn'd as a Traytor</hi> to the Government, ſo that it was no <hi>Murder,</hi> but an <hi>Execution.</hi> But <hi>ye have fill'd</hi> Jeruſalem <hi>with your Doctrines,</hi> there was the galling Point, that theſe great Preachers regain'd
+<pb n="7" facs="tcp:55805:5"/> the People apace; and then, thoſe proud Demagogues that were lately ſo very go<g ref="char:EOLhyphen"/>verning, muſt loſe their dear Popularity, and fall from their Empire to be mark't and pointed out for the <hi>Men of Blood.</hi>
+            </p>
+            <p>The words being thus explain'd, do na<g ref="char:EOLhyphen"/>turally offer and afford us theſe Obſervati<g ref="char:EOLhyphen"/>ons. And,
+<list>
+                  <item>1. Firſt, <hi>How backward are the moſt bloody Zealots to Confeſs the guilt of Blood? How for<g ref="char:EOLhyphen"/>ward to acquit themſelves from ſo juſt a Charge?</hi>
+                  </item>
+                  <item>2. <hi>How neceſſary it is, how abſolutely neceſ<g ref="char:EOLhyphen"/>ſary, to lay them open, to ſhew men of Blood their own guilt?</hi>
+                  </item>
+                  <item>3. <hi>
+                        <g ref="char:V">Ʋ</g>pon whom ſhould we intend to bring the guilt of Blood? <g ref="char:V">Ʋ</g>pon</hi> none but <hi>thoſe that have brought it upon themſelves. And Who are thoſe?</hi>
+                  </item>
+                  <item>4. Fourthly, <hi>In all this we ſhould mainly intend, that which the Apoſtles intended, to bring even the moſt Guilty to true Repentance.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">1. <hi>How backward are the moſt bloody Zea<g ref="char:EOLhyphen"/>lots to Confeſs the Guilt of Blood? How forward to acquit themſelves from ſo juſt a Charge?</hi>
+            </p>
+            <p>Exactly at this paſs are our Engliſh <hi>Re<g ref="char:EOLhyphen"/>gicides; They kill'd and took poſſeſſion,</hi> as <hi>Eliah</hi> charges <hi>Ahab</hi> in the Caſe of <hi>Naboth.</hi> Yet
+<pb n="8" facs="tcp:55805:6"/> was their Caſe worſe by far than that be<g ref="char:EOLhyphen"/>tween <hi>Ahab</hi> and <hi>Naboth,</hi> a <hi>King</hi> and <hi>one</hi> In<g ref="char:EOLhyphen"/>nocent <hi>Subject;</hi> for this the <hi>Regicides</hi> did to a great number of their Innocent fellow Subjects; and this they did to a King as Eminent for all manner of Goodneſs, as <hi>Ahab</hi> was remarkable for Extream Wicked<g ref="char:EOLhyphen"/>neſs. Yet if the Prophet <hi>Eliah</hi> ſhould come again (as ſome are of Opinion he ſhall come at the end of the World, but if he ſhould come) at this time to deliver his Maſter's Errand to any of theſe, he muſt expect no better Reception than <hi>Ahab</hi> gave Him, <hi>Haſt thou found me, O mine Enemy?</hi> for he be<g ref="char:EOLhyphen"/>comes their <hi>Enemy</hi> that tells them the <hi>Truth.</hi> Yet for all That, <hi>Eliah</hi> like a Prophet from God immediately goes on, <hi>I have found thee.</hi>
+            </p>
+            <p>How gladly would they part with this o<g ref="char:EOLhyphen"/>dious Buſineſs out of their own Memories? And how do they abhor us only for doing our Duty, as the Apoſtles did here, <hi>Cal<g ref="char:EOLhyphen"/>ling their Sins to Remembrance?</hi> They ap<g ref="char:EOLhyphen"/>ply to this matter that ſaying of the Wiſe<g ref="char:EOLhyphen"/>man, <hi>The Repetition of a matter ſeparateth very Friends.</hi> They would be Friends with us, if we could find in our hearts to be their Flatterers. They Complain as if it
+<pb n="9" facs="tcp:55805:6"/> were ill-natur'd, as if it were Uncharitable and Unchriſtian to mention their <hi>murder<g ref="char:EOLhyphen"/>ing of the King,</hi> as if it were high time the <hi>Act</hi> for obſerving the <hi>Thirtieth of January</hi> were Repealed, as if it were almoſt as great a <hi>Grievance</hi> as the <hi>35th of the Queen.</hi>
+            </p>
+            <p>To ſhew I do this ſort of men no wrong, How very few, if any of thoſe who took upon them to act as the <hi>King's Judges,</hi> would take the Chriſtian ſhame upon them<g ref="char:EOLhyphen"/>ſelves, when they came to ſuffer, or profeſs the leaſt regret for what they had acted? Preach Repentance to them! (as was done to Several of them before their Deaths) they would have us to know their <hi>names</hi> were inroll'd in the <hi>Book of Life,</hi> their <hi>Cal<g ref="char:EOLhyphen"/>ling and Election</hi> was <hi>ſure.</hi> And ſome of the laſt words which the <hi>Arch-Traytor</hi> was heard to utter were ſuch as Theſe, <hi>I am ſure I was once in Chriſt, therefore ever in Chriſt.</hi> I have kept it ever ſince for a Reply upon ſome well-meaning, but ill-inſtructed Peo<g ref="char:EOLhyphen"/>ple, who are ready to Deſpair if they do not ſatisfie themſelves of their being in the State of Certainty when they are dying; that ſome of Theſe, <hi>whoſe hands were ſo full of blood,</hi> yet were as full of this falſe Security,
+<pb n="10" facs="tcp:55805:7"/> as the moſt glorious Martyrs were of the true One.</p>
+            <p>If it were needful to give any more In<g ref="char:EOLhyphen"/>ſtances, I might ſhew by later Examples of the ſame Party, to what a <hi>Reprobate Senſe</hi> men may be given up, that have once <hi>Sear'd</hi> their <hi>Conſciences</hi> to ſtop their own bleeding at heart while they are ſhedding innocent Blood with their own hands, while they break into Houſes, <hi>maſſacre</hi> Innocent men in their Beds, <hi>mangle</hi> them with ſuch Cru<g ref="char:EOLhyphen"/>elty as the like was ſcarce ever heard of ſince <hi>Dolabella</hi> perform'd his Barbarous Exploit in the dead of Night, upon <hi>Trebonius:</hi> But that was for his being one of <hi>Caeſar</hi>'s Murder<g ref="char:EOLhyphen"/>ers: Whereas theſe poor Sufferers were Guilty of no Crime, but their being of his <hi>Majeſties Guards.</hi> And yet theſe ſame <hi>Mon<g ref="char:EOLhyphen"/>ſters</hi> do in their <hi>Declarations</hi> ſolemnly pro<g ref="char:EOLhyphen"/>teſt they hold no Cruel Principles, they would by no means be miſtaken for men of <hi>Blood.</hi>
+            </p>
+            <p>But the more Confident they are of their own Innocence, and the more they turn away their Impudent eyes from ſeeing their own <hi>Guilt;</hi> the more <hi>abſolutely neceſſa<g ref="char:EOLhyphen"/>ry it is for us to lay it before them,</hi> which leads to my <hi>Second Part.</hi>
+            </p>
+            <p n="2">
+               <pb n="11" facs="tcp:55805:7"/> 2. In this we do but follow the great Examples before us, we do as was done by the Apoſtles: And this ought to be done not barely for the ſake of thoſe that are guilty, but alſo for the ſecuring and pre<g ref="char:EOLhyphen"/>ſerving our own Innocence; for <hi>He that hates his Brother is a Murderer,</hi> ſays the Apo<g ref="char:EOLhyphen"/>ſtle, and he that <hi>Suffers Sin upon him,</hi> or does not <hi>reprove</hi> him for it, is, in another place of Scripture, ſuppoſed to <hi>hate</hi> him. Nor could St. <hi>Paul</hi> have enter'd this Proteſtati<g ref="char:EOLhyphen"/>on, <hi>I take you to Record this Day that I am pure from the blood of all men;</hi> but that he was able to add, <hi>for I have not ſhunn'd to de<g ref="char:EOLhyphen"/>clare unto you, all the Counſel of God.</hi>
+            </p>
+            <p>Beſides, we are well aware that the voice of the <hi>meaneſt Blood,</hi> much more of the <hi>Royaleſt,</hi> if it ſtill <hi>crys</hi> from the Earth, will pluck down more Judgments from Hea<g ref="char:EOLhyphen"/>ven: and that the moſt Innocent <hi>private</hi> man, the moſt unſpotted from <hi>Blood,</hi> may yet be involv'd in thoſe <hi>public</hi> Calamities. We turn the Caſe upon our Selves, the Caſe in the Second of <hi>Samuel,</hi> that <hi>there was a Famine in the days of</hi> David <hi>three years, year after year, and</hi> David <hi>enquired of the Lord, and the Lord anſwered, It is for</hi> Saul, <hi>and for</hi>
+               <pb n="12" facs="tcp:55805:8"/> 
+               <hi>his bloody Houſe, becauſe he ſlew the Gibeonites, for the Children of</hi> Iſrael <hi>had ſworn unto them, and</hi> Saul <hi>ſought to ſlay them.</hi>
+            </p>
+            <p>I do very well remember how preſſingly this Caſe of the <hi>Gibeonites</hi> was urged in fa<g ref="char:EOLhyphen"/>vour of thoſe <hi>Murderers of the King,</hi> that had render'd themſelves. But I muſt needs ſay it had been more pertinently urg'd, if inſtead of <hi>Saul</hi>'s <hi>putting to Death the Gibeo<g ref="char:EOLhyphen"/>nites</hi> after they had made a Covenant with <hi>Iſrael,</hi> the <hi>Gibeonites</hi> had put King <hi>Saul</hi> to Death by vertue of a <hi>Covenant</hi> made among themſelves, <hi>without their King, and againſt Him.</hi> Now ſuppoſe thoſe <hi>Gibeonites,</hi> that were no better than <hi>Hewers of Wood</hi> and <hi>Drawers of Water</hi> to <hi>Iſrael,</hi> had Conſtituted ſome of their <hi>Draymen</hi> a <hi>High-Court of Ju<g ref="char:EOLhyphen"/>ſtice</hi> to <hi>Murder</hi> King <hi>Saul,</hi> with a <hi>ſhew</hi> of Authority on their Side; Then had a <hi>Fa<g ref="char:EOLhyphen"/>mine</hi> enſu'd, had a <hi>War</hi> follow'd upon <hi>That,</hi> had a <hi>Peſtilence</hi> began where the War had ended, had the <hi>Capital City,</hi> in which ſuch a Tragedy was acted, been reduc'd to <hi>Aſhes,</hi> and after all That had the <hi>Famine</hi> begun a<g ref="char:EOLhyphen"/>gain; <hi>David</hi> would ſcarce have needed to Conſult the Oracle of God to Diſcover one <hi>great Cauſe</hi> of ſo many Judgments.</p>
+            <pb n="13" facs="tcp:55805:8"/>
+            <p> Since then Almighty God, <hi>when he makes Inquiſition for Blood, he remembers them, and forgets not the Cry of the humble,</hi> as <hi>David</hi> (the Party concern'd in the former Caſe) has ſet it down, <hi>Pſal.</hi> 9. 12. We had beſt make ſtrict Enquiry, and conſider well, (as the Apoſtles did here before they would charge any with the Blood of Chriſt,) upon whom <hi>we intend</hi> and ought <hi>to bring</hi> this fearful Guilt of <hi>Royal Chriſtian Bloodſhed. <g ref="char:V">Ʋ</g>pon</hi> none but <hi>Thoſe,</hi> that in a higher or lower Degree, in a greater or leſs proportion, have <hi>brought it upon themſelves. And who are thoſe?</hi> which muſt be my <hi>third Conſideration.</hi>
+            </p>
+            <p n="3">3. Since Actions full of Horror and Aſto<g ref="char:EOLhyphen"/>niſhment, if they are long deliberated, and done with <hi>Form</hi> (as was the Deed of <hi>this day)</hi> are never done without that which the <hi>Sto<g ref="char:EOLhyphen"/>ics</hi> call a <hi>Prolepſis,</hi> that is a deep and firm per<g ref="char:EOLhyphen"/>ſuaſion of mind that ſuch Actions are both lawful and neceſſary to be done; they that eſtabliſh the <hi>Principle</hi> by which the minds of men are ſet and fixt on Such Actions, muſt be Reſponſible for the next immediate viſi<g ref="char:EOLhyphen"/>ble and unavoidable conſequence of their own <hi>Principle.</hi>
+            </p>
+            <p>When the <hi>Principle</hi> is once Rivetted in
+<pb n="14" facs="tcp:55805:9"/> the heart, there is nothing ſo deſperate or ſo damnable, but men will go through it without fear. <hi>Women</hi> among the Bar<g ref="char:EOLhyphen"/>barians will aſcend the Funeral Piles of their dead Husbands, and ſmile as they give their own Bodies to be burnt to Aſhes. Yea, very <hi>Children</hi> have ſuffer'd Torments, not only patiently, but joyfully, for a falſe Re<g ref="char:EOLhyphen"/>ligion ſtrongly impreſs't upon them, inſtead of the true one. Whoever therefore confirm and harden others in <hi>King-killing Principles</hi> muſt bear a ſhare in the <hi>Guilt,</hi> though <hi>not they, but others ſhed the Blood of Kings,</hi> becauſe ſuch <hi>Principles</hi> ſtrike at <hi>all Kings,</hi> for they ſtrike at the <hi>Kingly Office</hi> it ſelf, and they do it once for all: As <hi>the Son of Zerviah</hi> offer'd to <hi>Smite King Saul,</hi> and ſo as he ſhould not <hi>need to Smite him a ſecond time.</hi>
+            </p>
+            <p>Now upon this Suppoſition, as I ſhall ſhew anon, that ſome who came into the World ſince our preſent Gracious Soveraign began to Reign, have <hi>brought</hi> upon themſelves the <hi>blood</hi> of his <hi>Royal Father</hi> by <hi>defending the Re<g ref="char:EOLhyphen"/>gicide;</hi> ſo others that liv'd ſome Ages before that <hi>diſmal Period of time,</hi> did as it were ante<g ref="char:EOLhyphen"/>date the <hi>Guilt</hi> by introducing odious Pre<g ref="char:EOLhyphen"/>ſidents, or laying down wicked Premiſſes
+<pb n="15" facs="tcp:55805:9"/> long ago, from whence theſe late Great Of<g ref="char:EOLhyphen"/>fenders follow'd their footſteps, or drew their abhorred Concluſions.</p>
+            <p>Out of the many Inſtances of this kind, which I could eaſily produce, I ſhall men<g ref="char:EOLhyphen"/>tion but a very few againſt <hi>two Parties.</hi> Thoſe of the one Party do paſs in the Church of <hi>Rome</hi> for <hi>true Catholics.</hi> Thoſe of the other Party would fain paſs among <hi>
+                  <g ref="char:V">Ʋ</g>s</hi> for the <hi>true Proteſtants. Both Parties</hi> are as <hi>oppoſite</hi> each to the other, as they are to <hi>
+                  <g ref="char:V">Ʋ</g>s</hi> and the <hi>Truth,</hi> yet <hi>both</hi> of them <hi>agreed</hi> in the main <hi>Deſign</hi> to <hi>Confound Monarchy.</hi>
+            </p>
+            <p>Pope <hi>Zachary</hi> was (I think) the firſt, who pretended to exerciſe a power of <hi>Abſolving Subjects</hi> from their <hi>Oaths of Allegiance,</hi> whereupon a <hi>King</hi> of <hi>France, Childeric the Third,</hi> was <hi>depos'd</hi> as unfit for Government, the ancient Royal Family was <hi>laid aſide</hi> till it was at laſt extinguiſht, the <hi>Crown</hi> of <hi>France</hi> was ſet on another Head, and ſettled on another Family.</p>
+            <p>Now I may truly ſay, That <hi>Biſhop</hi> of <hi>Rome</hi> laid a Foundation for many a following <hi>Rebellion,</hi> even That Rebellion ariſing ſo long after from the <hi>Holy League.</hi> And <hi>Gre<g ref="char:EOLhyphen"/>gory the Seventh,</hi> the firſt who avow'd open<g ref="char:EOLhyphen"/>ly
+<pb n="16" facs="tcp:55805:10"/> that peſtilent <hi>Hereſy,</hi> call'd by his Name, the <hi>Hildebrandian</hi> Hereſy of the <hi>Depoſing,</hi> and if need were, the <hi>King-killing-power,</hi> made way for the <hi>Clements,</hi> the <hi>Ravillacs,</hi> and the <hi>Powder-Traytors.</hi> And <hi>T. Aquin.</hi> him<g ref="char:EOLhyphen"/>ſelf, for all he is <hi>Sainted,</hi> and ſtands as the Pillar of their Schools; yet deliver'd this for good <hi>School-Divinity,</hi> That, <hi>as ſoon as any Prince is denounc'd Excommunicate for Apoſta<g ref="char:EOLhyphen"/>cy from the Faith, his Subjects are</hi> ipſo facto <hi>free from his Dominion over them, and from the Oath of Fidelity by which they were bound to him.</hi> I muſt needs ſay, whoever they are that bring ſuch <hi>Principles</hi> as theſe for Chri<g ref="char:EOLhyphen"/>ſtian Doctrine into the <hi>Church,</hi> they attempt to give the <hi>State,</hi> and the <hi>Kingly Office</hi> it ſelf, a <hi>mortal wound;</hi> They do their beſt <hi>to ſet up the Court of</hi> Rome <hi>as a ſtanding High-Court of Juſtice over all Kings.</hi>
+            </p>
+            <p>And then for the other Party, <hi>Knox</hi> and <hi>Buchanan,</hi> with the reſt of thoſe old Leaders to <hi>Rebellion,</hi> as well as <hi>Milton,</hi> and ſeveral later <hi>Patrons</hi> of <hi>the Good Old Cauſe,</hi> they ſhall one day be ſtar'd in the face by all that pre<g ref="char:EOLhyphen"/>tious <hi>Blood</hi> which <hi>their Writings</hi> encourag'd <hi>others</hi> to ſhed ſo prodigally. And <hi>Calvin</hi> himſelf is inexcuſable, who clearly enough
+<pb n="17" facs="tcp:55805:10"/> diſcovers his <hi>ill-meaning,</hi> though he thinks fit to ſhew it but in half-lights, to diſguiſe it with <hi>Ifs</hi> or <hi>Ands,</hi> with a <hi>perhaps,</hi> or <hi>it may be.</hi> If <hi>there be now,</hi> ſays he, <hi>any</hi> popular Of<g ref="char:EOLhyphen"/>ficers <hi>ordain'd to moderate the Licentiouſneſs of Kings (ſuch as were the</hi> Ephori <hi>ſet up of old a<g ref="char:EOLhyphen"/>gainſt the Kings of</hi> Sparta, <hi>the</hi> Tribunes <hi>of the People, againſt the</hi> Roman Conſuls, <hi>and the</hi> Demarchi <hi>againſt the</hi> Athenian Senate, <hi>and with which power,</hi> ſays he, <hi>perhaps, as the world now goes, the</hi> Three Eſtates <hi>are ſeiz'd in each ſeveral Kingdom, when they are Solemnly Aſſembled;) ſo far am I,</hi> ſays he, <hi>from hindring them to put reſtraints upon the exorbitant Power of Kings, as their</hi> Office <hi>binds them; that I con<g ref="char:EOLhyphen"/>ceive them,</hi> ſays he, <hi>rather to be guilty of a per<g ref="char:EOLhyphen"/>fidious Diſſimulation, if they connive at</hi> Kings <hi>when they play the</hi> Tyrants, <hi>or wantonly inſult on the Common People, in that,</hi> ſays he, <hi>they treacherouſly betray the Subjects Liberties.</hi>
+            </p>
+            <p>This was, as a certain Learned <hi>Author</hi> juſt<g ref="char:EOLhyphen"/>ly terms it, a <hi>Stumbling-block of Diſobedience and Rebellion, cunningly laid by</hi> Calvin <hi>in the Subjects way.</hi> And ſo it prov'd; for this <hi>Doctrine</hi> was quickly improv'd into <hi>Applica<g ref="char:EOLhyphen"/>tion</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>ſe;</hi> As the ſame <hi>Author</hi> tells us from another, that the <hi>Commiſſioners</hi> from
+<pb n="18" facs="tcp:55805:11"/> 
+               <hi>Scotland</hi> endeavor'd to juſtifie their pro<g ref="char:EOLhyphen"/>ceedings before Q. <hi>Elizabeth</hi> againſt their unfortunate Soveraign Q. <hi>Mary,</hi> by thoſe very words of <hi>Calvin</hi> which I have repeated, from whence they inferr'd, <hi>That it was lawful for them to put evil Princes into Priſon, and al<g ref="char:EOLhyphen"/>ſo to deprive them of their Kingdoms.</hi>
+            </p>
+            <p>Nor is it any great wonder, after this De<g ref="char:EOLhyphen"/>termination from Him who was an Oracle with them of <hi>Switzerland</hi> and <hi>Geneva,</hi> That (in ſpight of all that honeſt <hi>Deodati</hi> had de<g ref="char:EOLhyphen"/>clared againſt our Rebellion) they afforded a friendly Reception, and gave the right hand of Fellowſhip to ſome of thoſe whom they knew to have been at the Top of that <hi>bloody Cabal,</hi> which paſt the <hi>Sentence</hi> upon the King.</p>
+            <p>Indeed this Principle leads directly to the <hi>Trial</hi> of a <hi>King</hi> by his Subjects; it expoſes the Majeſty of Princes to be made a Cruel Pageant to their <hi>People,</hi> as one of our <hi>Re<g ref="char:EOLhyphen"/>publican Aſſaſſins</hi> is reported to have urg'd, that the King whom they promis'd to make a <hi>glorious King,</hi> might be <hi>array'd in his Robes, and brought to the Scaffold with the Crown on his Head,</hi> to ſhew, that together with the Monarch they would cut off the Monarchy
+<pb n="19" facs="tcp:55805:11"/> it ſelf. This Principle (one of <hi>Calvin</hi>'s <hi>Inſti<g ref="char:EOLhyphen"/>tutions)</hi> in it's own natural and neceſſary tendency would <hi>ſet up a High Court of the Three Eſtates in each Kingdom, as another ſtand<g ref="char:EOLhyphen"/>ing High Court of Juſtice over each King.</hi>
+            </p>
+            <p>But to come nearer home to our own times, <hi>
+                  <g ref="char:V">Ʋ</g>pon whom</hi> now do we <hi>intend,</hi> and <hi>upon whom ought</hi> we to <hi>bring the guilt of this Day?</hi>
+            </p>
+            <p>Intending to bring the <hi>guilt</hi> of any man's <hi>blood,</hi> but eſpecially the <hi>blood of a King,</hi> upon any that are not guilty, and ſo to murder their good Name, which is as it were a man's other Life; ſuch a Calumny would be a Crime little leſs than killing the Body of a Fellow-Subject. But on the other ſide <hi>to ac<g ref="char:EOLhyphen"/>quit the guilty, is of equal abomination as to con<g ref="char:EOLhyphen"/>demn the Innocent.</hi>
+            </p>
+            <p>This place in the <hi>Proverbs</hi> was notoriouſ<g ref="char:EOLhyphen"/>ly miſapply'd and abus'd by <hi>One,</hi> of <hi>ever cur<g ref="char:EOLhyphen"/>ſed Memory,</hi> whom they ſtyl'd the <hi>Preſident</hi> of their <hi>Court,</hi> when he brought <hi>this place</hi> to juſtifie that <hi>Diabolical Sentence</hi> he was about to paſs on an <hi>Innocent</hi> Perſon, and an <hi>Impe<g ref="char:EOLhyphen"/>rial Prince,</hi> a <hi>Crown'd Head</hi> accountable to none but God. But now the place is juſtly apply'd, when it is thus retorted upon <hi>Him</hi> and <hi>Them,</hi> who ſate in that <hi>Helliſh Court of</hi>
+               <pb n="20" facs="tcp:55805:12"/> 
+               <hi>Mock Juſtice,</hi> who all expreſt their <hi>aſſent</hi> by <hi>ſtanding up,</hi> as was before agreed and order'd. They <hi>gloried</hi> in the <hi>Act</hi> at their <hi>Deaths,</hi> as they made it the pride of their Lives. Their Ghoſts would be offended, and think their names affronted, if they ſhould not for ever ſtand in <hi>red Letters,</hi> as they have written their own Characters in <hi>Royal Blood.</hi>
+            </p>
+            <p>For thoſe that <hi>fought againſt</hi> him, thoſe that <hi>betray'd</hi> and <hi>deliver'd</hi> him into the hands of his <hi>Murderers;</hi> Thoſe that made <hi>Treaties</hi> with him ineffectual, by clogging them with ſuch hard Conditions, as neither his <hi>Honour</hi> nor his <hi>Conſcience</hi> might Comply withal; Thoſe that bred <hi>Parliamentary</hi> De<g ref="char:EOLhyphen"/>lays till the <hi>Army</hi> had gain'd their point, and were come up to the City; ſuch muſt be put in mind, at leaſt once a year, that they may apply to themſelves the Caſe of the Jews, who did but <hi>deliver</hi> up Chriſt to the <hi>Romans,</hi> and yet St. <hi>Peter</hi> tells them, <hi>Ye have crucified him.</hi> Nay, they may apply the Caſe of <hi>Judas,</hi> who, it appears by the Story, did not imagine the Jews would have gone ſo far a<g ref="char:EOLhyphen"/>gainſt his Lord and Maſter, as to preſs the <hi>Sentence of Death</hi> againſt him; for <hi>when he ſaw that he was Condemn'd,</hi> Judas <hi>repented him<g ref="char:EOLhyphen"/>ſelf,</hi>
+               <pb n="21" facs="tcp:55805:12"/> 
+               <hi>and brought again the Thirty pieces of Sil<g ref="char:EOLhyphen"/>ver,</hi> a farther Step than ever I heard was made by any of theſe <hi>Traytors,</hi> to make a vo<g ref="char:EOLhyphen"/>luntary <hi>Reſtitution,</hi> as he did, <hi>of the price of blood.</hi> Very few of them would make ſuch a <hi>Confeſſion</hi> as he did, <hi>I have ſinned in that I have betrayed Innocent Blood.</hi>
+            </p>
+            <p>But as that furious <hi>Criſis,</hi> that woful Con<g ref="char:EOLhyphen"/>juncture is over; as moſt of thoſe <hi>execrable Wretches</hi> have born their own Judgment; ſo I would to God the <hi>Guilt</hi> of that <hi>Sacred Blood</hi> might fall on no more Heads than ſuch as thoſe that ſtand as Monuments of their own <hi>Barbarity. But,</hi> good God! what ſhall we think when men unborn in that <hi>fatal year</hi> of <hi>Forty eight,</hi> ſhall act at ſo high a rate of almoſt incredible, yet moſt de<g ref="char:EOLhyphen"/>monſtrable <hi>Villany,</hi> as to derive that horri<g ref="char:EOLhyphen"/>ble <hi>Regicide</hi> upon themſelves? As the Apoſtle ſuppoſes that ſome had <hi>Crucify'd Chriſt over afreſh;</hi> So Chriſt himſelf ſuppoſes, that <hi>all the Blood ſhed from the time of righteous</hi> Abel, <hi>ſhould be required of that Generation.</hi> And ſo it <hi>may</hi> be of <hi>This.</hi> And Some that had <hi>no Being</hi> in the Reign of the late <hi>good King,</hi> and others that were <hi>none</hi> of <hi>his Subjects,</hi> may involve themſelves in the ſame <hi>guilt</hi> by <hi>Owning, Ju<g ref="char:EOLhyphen"/>ſtifying</hi>
+               <pb n="22" facs="tcp:55805:13"/> and <hi>Glorifying</hi> (as much as they can) ſome <hi>others</hi> that bore a part in it. Old <hi>Voet</hi> that abominable <hi>Divinity Profeſſor</hi> at <hi>
+                  <g ref="char:V">Ʋ</g>trecht,</hi> whom Honourable Witneſſes have heard Catechizing his Scholars, and explaining the the Sixth Commandment, <hi>Thou ſhalt do no Murder,</hi> but putting this Anſwer into their Mouths, That putting <hi>our King</hi> to <hi>Death</hi> was <hi>no Murder</hi> at all; He, though a <hi>Foreigner,</hi> one that liv'd ſo far off, yet he <hi>brought this Blood upon himſelf.</hi> And 'tis to be fear'd he left alſo Sanguinary ſtains upon the Minds of ſome his too eaſy Diſciples.</p>
+            <p>So Thoſe that ſet up <hi>Fanatic Schools,</hi> and their <hi>Country Academies</hi> here at home, on purpoſe to breed up their Children ſo as to make them <hi>Rebels,</hi> if occaſion ſhews; if ever they <hi>have another Day for it</hi> (as they uſe to ſpeak) ſuch Parents go far towards the ma<g ref="char:EOLhyphen"/>king <hi>Regicides</hi> both of themſelves and their Children. The wiſe <hi>
+                  <g ref="char:V">Ʋ</g>lyſſes</hi> is brought upon the Stage by the <hi>Tragedian</hi> expreſſing an im<g ref="char:EOLhyphen"/>patience to think that the <hi>Trojans</hi> ſhould ſteal away young <hi>Aſtyanax</hi> the Son of <hi>Hector,</hi> as if, after an end was put to the long <hi>Trojan</hi> War, they liv'd ſtill in hopes that he might one day Head them to retrieve their Cauſe: <hi>Bel<g ref="char:EOLhyphen"/>la</hi>
+               <pb n="23" facs="tcp:55805:13"/> 
+               <hi>Telemacho parant;</hi> They are contriving, ſays he, to bring the Calamity of another War upon my Son <hi>Telemachus.</hi> So ſuch as <hi>Spirit away</hi> our Youth into the Diſaffected <hi>Commonwealth-Party,</hi> are ſtudying to bring New Miſeries upon our <hi>Childrens Children:</hi> They go the way to entail the <hi>Paricide</hi> Committed on the <hi>Father of their Country,</hi> to bring it upon the <hi>Poſtnati,</hi> the Children born after the <hi>Crime</hi> was <hi>acted:</hi> They com<g ref="char:EOLhyphen"/>municate Sin and Miſchief from <hi>one Genera<g ref="char:EOLhyphen"/>tion to another,</hi> as a wiſe <hi>Patriot</hi> ſaid concern<g ref="char:EOLhyphen"/>ing the <hi>Accomplices</hi> of <hi>Cataline,</hi> who had taken exquiſite Care to Corrupt the <hi>Gentry</hi> of <hi>Rome,</hi> that <hi>although</hi> Catiline <hi>were gone, yet if ſuch as were of his breeding continued among them, they would prove a Catilinarian Seminary in the Commonwealth.</hi> Nay <hi>ſuch</hi> among <hi>us</hi> take an effectual Courſe, not on<g ref="char:EOLhyphen"/>ly to <hi>propagate,</hi> but to <hi>perpetuate</hi> the <hi>Guilt</hi> of the <hi>Blood</hi> that was <hi>ſhed this day:</hi> for at this rate it will run on <hi>in Infinitum,</hi> and till the end of the World there will be no end of <hi>blood touching Blood,</hi> as the Prophet <hi>Ho<g ref="char:EOLhyphen"/>ſeah</hi> ſpeaks: and they <hi>bring it upon themſelves, all they</hi> that are in the ſame Aſſociation, the ſame <hi>Bond of Iniquity</hi> with the mad Zea<g ref="char:EOLhyphen"/>lots,
+<pb n="24" facs="tcp:55805:14"/> though they are not ſo far gone into the <hi>Gall of Bitterneſs:</hi> Yea, they draw on their own heads the <hi>blood</hi> of thoſe alſo whom the hand of <hi>Authority</hi> ſtrikes with the <hi>Sword</hi> of <hi>Juſtice;</hi> of thoſe, upon whom they would fain ſhift off from themſelves the name of the <hi>Fanatic</hi> or <hi>Frantic Party.</hi>
+            </p>
+            <p>And now if we have brought the <hi>guilt</hi> of <hi>Blood</hi> upon many who hitherto perhaps thought themſelves perfectly guiltleſs; how can we help it? How can they avoid it? 'Tis their burden, and they muſt bear it. And yet, for thoſe Guilty men who are ſtill in the Land of the Living, we intend to lay it upon thoſe, only to make them feel it as a <hi>Burden</hi> too <hi>heavy</hi> for them to bear, that they may give a mighty Spring from under ſo great a Load. For,</p>
+            <p n="4">4. In the <hi>fourth</hi> and laſt <hi>place</hi> (of which very briefly). We mainly intend, as the Apoſtles intended, <hi>to bring even the moſt guilty to true Repentance.</hi>
+            </p>
+            <p>One that was juſtly reputed a great <hi>States<g ref="char:EOLhyphen"/>man,</hi> as well as a good <hi>Citizen</hi> of <hi>Rome,</hi> and the nobleſt <hi>Orator,</hi> made this Complaint: <hi>Either our Foreign Enemies,</hi> ſays he, <hi>are o<g ref="char:EOLhyphen"/>vercome in fight, and then they Serve us; or, if</hi>
+               <pb n="25" facs="tcp:55805:14"/> 
+               <hi>they are taken into our Friendſhip, they are ob<g ref="char:EOLhyphen"/>lig'd to us in generoſity. But if any of our own Countrymen are once debauch'd into ſo high a degree of Frenzy, as to declare themſelves Ene<g ref="char:EOLhyphen"/>mies to their Country; Theſe,</hi> ſays he, <hi>when you have repreſt them from deſtroying the Com<g ref="char:EOLhyphen"/>monwealth, yet you can hardly reſtrain them by any Force, or reconcile them by any Fa<g ref="char:EOLhyphen"/>vour.</hi>
+            </p>
+            <p>By a long ſad Experience we find this Obſervation is too true. Moſt of the <hi>Shi<g ref="char:EOLhyphen"/>mei</hi>'s that have once lift up their Voice in <hi>Curſes</hi> againſt the King, and lift up their Hand to <hi>ſling Stones</hi> at his <hi>Sacred</hi> Head, though they be heartily <hi>forgiven,</hi> yet they will keep no bounds, but tranſgreſs again the moſt eaſy Conditions given them. They that have brought the <hi>Royal Blood</hi> upon themſelves, can ſcarce be prevail'd withal to make any ſtop, till by ſome new <hi>Trea<g ref="char:EOLhyphen"/>ſonable Attempt,</hi> they <hi>bring</hi> their <hi>own Blood</hi> alſo on their <hi>own Heads:</hi> and ſo did theſe in the Text, theſe whom the Apoſtles do thus Accuſe for ſhedding the <hi>Blood of Jeſus: (whom ye ſlew and hang'd on à Tree)</hi> although they were told in the very <hi>next words,</hi> that he was ready to impart that Grace, which
+<pb n="26" facs="tcp:55805:15"/> no earthly Prince can beſtow, <hi>to give Repen<g ref="char:EOLhyphen"/>tance</hi> as well as <hi>forgiveneſs of Sins;</hi> yet it fol<g ref="char:EOLhyphen"/>lows, <hi>When they heard this they were cut to the heart, and took Counſel to ſlay them.</hi>
+            </p>
+            <p>And yet but two <hi>Chapters</hi> before, a great number, <hi>whom</hi> St. <hi>Peter</hi> charges <hi>Ye have Crucify'd him, when they heard this, were prickt to the heart, and ſaid unto</hi> Peter, <hi>and to the reſt of the Apoſtles, Men and Brethren, What ſhall we do?</hi> He bids them <hi>Repent,</hi> and <hi>with many words</hi> he <hi>exhorts</hi> them, <hi>Save your ſelves from this untoward Generation</hi> Whereupon a Multitude of them came over that ſame day; one ſhort plain Sermon converted <hi>three thouſand</hi> of Chriſt's Murderers: And I make no doubt, not a few of thoſe that were carry'd away with the Diſſimulation of the men of malice among us, have been <hi>converted</hi> by the Bleſſing of God, and the preaching every <hi>Thirtieth of January</hi> more than Three thouſand Sermons.</p>
+            <p>There is ſtill a healing Principle in the Blood of Chriſt. <hi>The Lamb of God that was ſlain;</hi> that is, deſign'd to be ſlain, <hi>from the beginning of the World,</hi> takes away the Sin of the World, that is, he gives his Grace to all that are ready to <hi>receive</hi> it, for the <hi>taking</hi>
+               <pb n="27" facs="tcp:55805:15"/> 
+               <hi>away</hi> of Sin, all the whole heap of Sin, e<g ref="char:EOLhyphen"/>ven <hi>this Sin</hi> which lies ſo hard upon many, of <hi>Shedding the Blood of Kings.</hi> For Chriſt did his part to expiate even for thoſe that ſhed his own <hi>Blood,</hi> and that was the <hi>Blood of God.</hi> No <hi>Traytor,</hi> if he be penitent, ought to Deſpair, but his <hi>Spirit</hi> may be <hi>Sav'd in the Day of the Lord Jeſus,</hi> ſince our Bleſſed Saviour has ſaid it, St. <hi>Luke</hi> 22. <hi>This is my Blood which is ſhed for you</hi> (ſpeaking to all that were preſent) <hi>nevertheleſs the hand of him that betrayeth me, is with me on the Table:</hi> Therefore <hi>Judas himſelf,</hi> the fouleſt Traytor, had a <hi>Share</hi> in the Blood of Chriſt, if he would have <hi>put in his Claim</hi> to it, He <hi>had offer</hi>'d him, if he would have <hi>accepted</hi> the Grace of Repentance.</p>
+            <p>And in that weighty Chriſtian Duty, in order to which this Divine Grace is extend<g ref="char:EOLhyphen"/>ed to <hi>all</hi> Mankind, we are all of us deeply concern'd: Since alas! we are none of thoſe whom our Saviour calls <hi>juſt men that need no Repentance;</hi> for as many of us as have broken our <hi>Baptiſmal</hi> and <hi>Sacramental Vows</hi> are <hi>Guilty</hi> of the <hi>Death and Paſſion</hi> which Chriſt once ſuffer'd for us upon the Croſs.</p>
+            <pb n="28" facs="tcp:55805:16"/>
+            <p> And for thoſe of Us that were men, knowing <hi>Good</hi> and <hi>Evil,</hi> before this abomi<g ref="char:EOLhyphen"/>nable Fact of <hi>Murdering the King</hi> (for it was done within the memory of Man, and of many in this numerous Audience) We are not able to ſay (u<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſs we deceive our ſelves as <hi>Pilate</hi> did) that we are <hi>Innocent of the Blood of this juſt Perſon.</hi> The Crown <hi>is fallen from our Head, Wo unto us for we have ſinn'd;</hi> Such was the <hi>Lamentation</hi> of the Prophet <hi>Jeremiah</hi> upon ſuch a Calami<g ref="char:EOLhyphen"/>ty as ours was, and with great Reaſon, ſuch was his Reflection on the Cauſe of that public dreadful Calamity, Their Na<g ref="char:EOLhyphen"/>tional Crying Sins. And the ſame Ac<g ref="char:EOLhyphen"/>count is given by a great Divine, as well as a moſt wiſe Prince, King <hi>Solomon,</hi> That when the Providence of God permits ſuch ſtrange Revolutions, and ſuffers <hi>Kingdoms</hi> to degenerate into <hi>Commonwealths;</hi> 'tis <hi>for the Tranſgreſſion of a Land many are the Princes thereof.</hi> Our repeating the Old ex<g ref="char:EOLhyphen"/>tream Provocations <hi>(ſince God is a Righte<g ref="char:EOLhyphen"/>ous Judge, Strong and Patient, and God is provoak'd every Day)</hi> may bring upon us new Judgments, ſuch as we cannot fore<g ref="char:EOLhyphen"/>ſee, and ſuch as we ſhould not be able to
+<pb n="29" facs="tcp:55805:16"/> endure the ſight of. <hi>Correct us, O Lord, but in thy Judgment, not in thy Fury, leaſt thou bring us to nothing.</hi> And God in his mer<g ref="char:EOLhyphen"/>cy, if it be his bleſſed Will, puniſh us any way, rather than that his Judgments ſhould ever again be any thing ſuch as the <hi>laſt</hi> were, that they ſhould <hi>touch the Lord's Anointed;</hi> or that God ſhould ſuffer <hi>men to ride over our Heads,</hi> as the Pſalmiſt ſpeaks; or that the <hi>Lord ſhould cover the Daughter of Sion</hi> (the Church) <hi>with a Cloud in his An<g ref="char:EOLhyphen"/>ger, and caſt down from Heaven unto Earth the Beauty of</hi> Iſrael. Lamentable things to be reflected upon! But that nothing like them may ever return upon us, it lyes up<g ref="char:EOLhyphen"/>on us all to purſue, with a vigorous Chri<g ref="char:EOLhyphen"/>ſtian Reſolution, the Apoſtles Precept and Injunction upon all thoſe, that were any way concern'd in the matter of my Text; <hi>Repent ye therefore, and be converted, that your Sins may be blotted out, when the times of refreſhment ſhall come from the preſence of the Lord.</hi> Which preſence we may be con<g ref="char:EOLhyphen"/>fident the <hi>Bleſſed Martyr of this day,</hi> was on this day ſo long ago as he became a <hi>Mar<g ref="char:EOLhyphen"/>tyr,</hi> admitted to enjoy: There to live and
+<pb n="30" facs="tcp:55805:17"/> 
+               <hi>reign</hi> for ever with the Lord, <hi>in whoſe pre<g ref="char:EOLhyphen"/>ſence is the fulneſs of joy, and at <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſe right hand there is pleaſure for ever more. To which, &amp;c.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
